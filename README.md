@@ -16,15 +16,13 @@
 3. Modeling: Perform predictive analysis using Python.
 
 
-    ```bash
+
     git clone https://github.com/Navyasree-star/uk-job-market-analysis.git
-    ```
-    ```bash
+
     pip install -r requirements.txt
-    ```
-    ```bash
+   
     jupyter notebook analysis.ipynb
-    ```
+ 
 
 ## Projects:
 1. **Job Sector Growth Analysis**: Insights into the fastest-growing job sectors.
